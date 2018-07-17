@@ -20,16 +20,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 500,
-            },
-          },
-        ],
-      },
     },
     {
       resolve: `gatsby-source-filesystem`,
