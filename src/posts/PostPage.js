@@ -1,22 +1,28 @@
 import React from 'react'
 import graphql from 'graphql'
 
-export default ({data}) => 
-<div>
-<h1>{data.markdownRemark.frontmatter.title}</h1>
-<h4>{data.markdownRemark.frontmatter.date}</h4>
-<div dangerouslySetInnerHTML={{__html: data.markdownRemark.html}} />
-</div>
+export default ({ data }) => (
+  <div>
+    <h1>{data.post.title}</h1>
+    <div
+      dangerouslySetInnerHTML={{
+        __html: data.post.body.childMarkdownRemark.html,
+      }}
+    />
+  </div>
+)
 
 export const query = graphql`
-query PostQuery($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      frontmatter {
-        date
-        title
+  query PostQuery($slug: String!) {
+    post: contentfulBlogPost(slug: { eq: $slug }) {
+      title
+      body {
+        body
+        childMarkdownRemark {
+          html
+        }
       }
-      html
+      createdAt(formatString: "YYYY-MM-DD")
     }
   }
 `
