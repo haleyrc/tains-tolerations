@@ -1,16 +1,16 @@
 ---
-author: "Ryan Haley"
-date: "2016-07-06"
-description: "Some notes on array internals in Go"
-tags: ["dev"]
-title: "IAMADev - Go Arrays"
+author: 'Ryan Haley'
+date: '2016-07-06'
+description: 'Some notes on array internals in Go'
+tags: ['dev']
+title: 'IAMADev - Go Arrays'
 ---
 
 After spending some time looking at how arrays in Go are created and referenced, a
 couple things stood out that I wanted to be able to remember in a meaningful way. So
 for posterity, a small program demonstrating some potentially confusing behavior:
 
-```go
+```go{numberLines: true}
 package main
 
 import (

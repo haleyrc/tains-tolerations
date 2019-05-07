@@ -6,23 +6,16 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
     {
-        resolve: `gatsby-transformer-remark`,
-        options: {
-            plugins: [
-                {
-                    resolve: `gatsby-remark-images`,
-                    options: {
-                    maxWidth: 500,
-                    },
-                }
-            ]
-        }
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-prismjs`],
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: 'markdown-pages',
-        path: `${__dirname}/src`,
+        path: `${__dirname}/src/posts`,
       },
     },
   ],
