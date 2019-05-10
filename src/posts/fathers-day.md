@@ -1,9 +1,9 @@
 ---
-author: "Ryan Haley"
-date: "2016-06-13"
-description: "About a week early, but close enough."
-tags: ["dad"]
-title: "IAMADad - Father's Day"
+author: 'Ryan Haley'
+date: '2016-06-13'
+description: 'About a week early, but close enough.'
+tags: ['dad', 'family']
+title: "Father's Day"
 ---
 
 <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>

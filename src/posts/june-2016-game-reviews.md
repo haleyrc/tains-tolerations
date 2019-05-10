@@ -1,14 +1,14 @@
 ---
-author: "Ryan Haley"
-date: "2016-06-14"
-description: "Some thoughts on games I actually finished recently"
-tags: ["gamer"]
-title: "IAMAGamer - June 2016 Reviews"
-
+author: 'Ryan Haley'
+date: '2016-06-14'
+description: 'Some thoughts on games I actually finished recently'
+tags: ['gaming']
+title: 'June 2016 Reviews'
 ---
 
 # Cibele
-There isn't a *whole* lot to say about Cibele mostly because it's such a short 
+
+There isn't a _whole_ lot to say about Cibele mostly because it's such a short
 game. What is there, however, is not fantastic. I actually relate somewhat to the
 story, having spent all of my high school years and the beginning of college in
 an online-only relationship type situation. Unfortunately, the story is not well
@@ -24,6 +24,7 @@ journal as a thirty year old. It might have resonated a bit more if I was younge
 but now it's dull bordering on silly.
 
 # Thomas Was Alone
+
 I actually finished the story proper of Thomas Was Alone a while ago, but since
 the achievements end at about the same time the narrative wraps up nicely, I
 never even realized there was more until a good time later, and then it took me
@@ -45,6 +46,7 @@ the narrative prematurely.
 Overall though, just play it.
 
 # Woolfe - The Red Hood Diaries
+
 I was really hoping this game would be good. I'm actually a fan of the 2.5D style
 and I like adapted fairy-tale type narratives. Unfortunately, this game is plagued
 by a lot of strange choices and behavior it's hard to say a whole lot positive.
@@ -66,11 +68,12 @@ don't have a problem with the rhyming, but there's very little content and a lot
 of filler, all of which is a bit stilted and by the end of the game, I really
 didn't have a great idea of what was going on, nor did I care.
 
-All in all, this was not what I was hoping it would be. Without any chance of a 
+All in all, this was not what I was hoping it would be. Without any chance of a
 sequel though, I won't have to decide whether to give it a chance to improve over
 time.
 
 # Year Walk
+
 This is definitely the weirdest of the games on this list. Another short game,
 but like Thomas Was Alone, the content feels packed in without filler to extend
 the runtime. I can see how a game with fairly simple puzzles, a short narrative arc,

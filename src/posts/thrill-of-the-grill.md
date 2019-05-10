@@ -1,10 +1,9 @@
 ---
-author: "Ryan Haley"
-date: "2015-09-05"
-description: "Back to my roots"
-tags: ["husband"]
-title: "IAMAHusband - Thrill of the Grill"
-
+author: 'Ryan Haley'
+date: '2015-09-05'
+description: 'Back to my roots'
+tags: ['leisure', 'grilling', 'cooking']
+title: 'Thrill of the Grill'
 ---
 
 Not that grilling is an activity unique to myself, but I have always felt a large amount of attachment to large, outdoor, food-heating devices. I don't know if it's my Kansas City upbringing, or just a natural love of protein products, but I will take any chance I can get to get out of the kitchen and make food over some nice hot coals.

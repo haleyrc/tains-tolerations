@@ -1,9 +1,9 @@
 ---
-author: "Ryan Haley"
-date: "2016-11-08"
-description: "Why Windows 10 makes me depressed"
-tags: ["dev"]
-title: "IAMADev - Windows 10"
+author: 'Ryan Haley'
+date: '2016-11-08'
+description: 'Why Windows 10 makes me depressed'
+tags: ['technology']
+title: 'Windows 10'
 ---
 
 _Note: This post is not structured or well-reasoned, but serves only as a record of my thoughts at this point in time._
